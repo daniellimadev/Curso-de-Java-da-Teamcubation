@@ -1,6 +1,6 @@
 # Curso intensivo de Java para Pessoas com Deficiência! 🚀
 
-Você é apaixonado por tecnologia e quer aprender Java? Esta é a sua chance! Estamos oferecendo um programa imersivo.
+Este curso é apaixonado por tecnologia e quer aprender Java!
 
 Com duração de 6 semanas
 
