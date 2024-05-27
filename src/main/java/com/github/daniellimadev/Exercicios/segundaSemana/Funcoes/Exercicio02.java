@@ -2,7 +2,7 @@ package com.github.daniellimadev.Exercicios.segundaSemana.Funcoes;
 
 import java.util.Scanner;
 
-public class Exercico02 {
+public class Exercicio02 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
