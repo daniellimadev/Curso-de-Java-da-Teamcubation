@@ -37,4 +37,8 @@ public class Funcionario {
     public String toString() {
         return "Nome: " + this.nome + " | CPF: " + this.cpf + " | Salario:" + this.salario;
     }
+
+    public double getSalario() {
+        return salario;
+    }
 }
