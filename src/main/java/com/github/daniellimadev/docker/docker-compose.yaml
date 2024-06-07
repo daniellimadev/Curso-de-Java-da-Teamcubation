@@ -1,0 +1,14 @@
+version: '3.1'
+
+services:
+
+  db:
+    image: mysql:5.7
+    container_name: database_mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: password
+      MYSQL_DATABASE: teamcubation
+      MYSQL_PASSWORD: password
+    ports:
+      - "3306:3306"
